@@ -25,7 +25,7 @@ $(function () {
         var contentString = '<div class="info-window">' +
             '<h3>Minsk City</h3>' +
             '<div class="info-content">' +
-            '<p> The population in January 2018 was 1,982,444 (not including suburbs) making Minsk the 11th most populous city in Europe. Minsk is the administrative capital of the Commonwealth of Independent States (CIS) and seat of its Executive Secretary.</p>' + '</div>' +
+            '<p style="color: black"> The population in January 2018 was 1,982,444 (not including suburbs) making Minsk the 11th most populous city in Europe. Minsk is the administrative capital of the Commonwealth of Independent States (CIS) and seat of its Executive Secretary.</p>' + '</div>' +
             '</div>';
 
         var infowindow = new google.maps.InfoWindow({
