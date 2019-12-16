@@ -23,7 +23,6 @@
 }
 
 #mainNav .navbar-nav .nav-item:hover {
-  color: fade(white, 80%);
   outline: none;
   background-color: transparent;
 }
